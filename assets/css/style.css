@@ -1,4 +1,15 @@
 .backfooter {
     background-color: #F8F8F8;
-    padding: 20px;
+    padding: 5px;
 }
+.rel {
+    position: relative;!important
+    float: left;
+}
+
+.caption {
+    position: absolute;
+    width: 280px;
+    bottom: 10%;
+    background-color: #4aaaa5;
+    left:20px;
